@@ -2,7 +2,7 @@ import plotly.graph_objects as go
 import pandas as pd
 
 # opening the file provided using pandas.
-df = pd.read_csv('C:\World_Map.csv')
+df = pd.read_csv('World_Map.csv')
 
 # Plotting Choropleth map
 fig = go.Figure(data=go.Choropleth(
