@@ -1,0 +1,223 @@
+COUNTRY,ALIGNS,CODE,TEMP
+Afghanistan,1600,AFG,12.6
+Albania,1,ALB,11.4
+Algeria,1600,DZA,22.5
+American Samoa,1600,ASM,7.6
+Andorra,1600,AND,7.6
+Angola,1600,AGO,21.55
+Anguilla,1600,AIA,26
+Antigua and Barbuda,1600,ATG,26
+Argentina,1600,ARG,14.8
+Armenia,1600,ARM,7.15
+Aruba,1600,ABW,11.95
+Australia,1600,AUS,21.65
+Austria,1600,AUT,6.35
+Azerbaijan,1600,AZE,11.95
+Bahamas,1600,BHM,24.85
+Bahrain,1600,BHR,27.15
+Bangladesh,1600,BGD,25
+Barbados,1600,BRB,26
+Belarus,1600,BLR,6.15
+Belgium,1,BEL,9.55
+Belize,1600,BLZ,25.3
+Benin,1600,BEN,27.55
+Bermuda,1600,BMU,26
+Bhutan,1600,BTN,7.4
+Bolivia,1600,BOL,21.55
+Bosnia and Herzegovina,1600,BIH,9.85
+Botswana,1600,BWA,21.5
+Brazil,800,BRA,24.95
+British Virgin Islands,1600,VGB,24
+Brunei,1600,BRN,26.85
+Bulgaria,1,BGR,10.55
+Burkina Faso,1600,BFA,20
+Burma,1600,MMR,13.05
+Burundi,1600,BDI,19.8
+Cape Verde,1600,CPV,23.3
+Cambodia,1600,KHM,26.8
+Cameroon,1600,CMR,26.6
+Canada,1,CAN,-5.35
+Cayman Islands,1600,CYM,20
+Central African Republic,1600,CAF,24.9
+Chad,1600,TCD,26.55
+Chile,1600,CHL,8.45
+China,800,CHN,6.95
+Colombia,1600,COL,24.5
+Comoros,1600,COM,24.55
+"Congo, Democratic Republic of the",1600,COD,24
+"Congo, Republic of the",1600,COG,24.55
+Cook Islands,1600,COK,24
+Costa Rica,1600,CRI,24.8
+Cote d'Ivoire,1600,CIV,20
+Croatia,1,HRV,10.9
+Cuba,1600,CUB,25.2
+Curacao,1600,CUW,20
+Cyprus,1600,CYP,18.45
+Czech Republic,1,CZE,7.55
+Denmark,1,DNK,7.5
+Djibouti,1600,DJI,28
+Dominica,1600,DMA,22.35
+Dominican Republic,1600,DOM,24.55
+Ecuador,1600,ECU,21.85
+Egypt,1600,EGY,22.1
+El Salvador,1600,SLV,24.45
+Equatorial Guinea,1600,GNQ,24.55
+Eritrea,1600,ERI,25.5
+Estonia,1,EST,5.1
+Ethiopia,1600,ETH,22.2
+Falkland Islands (Islas Malvinas),1600,FLK,25.85
+Faroe Islands,1600,FRO,25.85
+Fiji,1600,FJI,24.4
+Finland,1600,FIN,1.7
+France,1,FRA,10.7
+French Polynesia,1600,PYF,10.9
+Gabon,1600,GAB,25.05
+"Gambia, The",1600,GMB,27.5
+Georgia,1600,GEO,5.8
+Germany,1,DEU,8.5
+Ghana,1600,GHA,27.2
+Gibraltar,1600,GIB,20
+Greece,1,GRC,15.4
+Greenland,1600,GRL,-10
+Grenada,1600,GRD,26.65
+Guam,1600,GUM,26
+Guatemala,1600,GTM,23.45
+Guernsey,1600,GGY,24
+Guinea-Bissau,1600,GNB,26.75
+Guinea,1600,GIN,25.7
+Guyana,1600,GUY,26
+Haiti,1600,HTI,24.9
+Honduras,1600,HND,23.5
+Hong Kong,1600,HKG,20
+Hungary,1,HUN,9.75
+Iceland,1,ISL,1.75
+India,800,IND,23.65
+Indonesia,1600,IDN,23
+Iran,1600,IRN,17.25
+Iraq,1600,IRQ,21.4
+Ireland,1600,IRL,9.3
+Isle of Man,1600,IMN,20
+Israel,1600,ISR,19.2
+Italy,1600,ITA,13.45
+Jamaica,1600,JAM,24.95
+Japan,1600,JPN,11.15
+Jersey,1600,JEY,20
+Jordan,1600,JOR,18.3
+Kazakhstan,1600,KAZ,6.4
+Kenya,1600,KEN,24.75
+Kiribati,1600,KIR,28.2
+"Korea, North",1600,PRK,5.7
+"Korea, South",1600,KOR,11.5
+Kosovo,1600,KSV,20
+Kuwait,1600,KWT,25.35
+Kyrgyzstan,1600,KGZ,1.55
+Laos,1600,LAO,22.8
+Latvia,1,LVA,5.6
+Lebanon,1600,LBN,16.4
+Lesotho,1600,LSO,11.85
+Liberia,1600,LBR,25.3
+Libya,1600,LBY,21.8
+Liechtenstein,1600,LIE,5.65
+Lithuania,1,LTU,6.2
+Luxembourg,1,LUX,8.65
+Macau,1600,MAC,20
+Macedonia,1600,MKD,9.8
+Madagascar,1600,MDG,22.65
+Malawi,1600,MWI,21.9
+Malaysia,1600,MYS,25.4
+Maldives,1600,MDV,27.65
+Mali,1600,MLI,28.25
+Malta,1600,MLT,19.2
+Marshall Islands,1600,MHL,27.4
+Mauritania,1600,MRT,27.65
+Mauritius,1600,MUS,22.4
+Mexico,1600,MEX,21
+"Micronesia, Federated States of",1600,FSM,25.85
+Moldova,1600,MDA,9.45
+Monaco,1600,MCO,13.55
+Mongolia,1600,MNG,-0.7
+Montenegro,1,MNE,10.55
+Morocco,1600,MAR,17.1
+Mozambique,1600,MOZ,23.8
+Namibia,1600,NAM,19.95
+Nepal,1600,NPL,8.1
+Netherlands,1,NLD,9.25
+New Caledonia,1600,NCL,13
+New Zealand,1600,NZL,10.55
+Nicaragua,1600,NIC,24.9
+Nigeria,1600,NGA,26.8
+Niger,1600,NER,27.15
+Niue,1600,NIU,20
+Northern Mariana Islands,1600,MNP,20
+Norway,1,NOR,1.5
+Oman,1600,OMN,25.6
+Pakistan,1600,PAK,20.2
+Palau,1600,PLW,27.6
+Panama,1600,PAN,25.4
+Papua New Guinea,1600,PNG,25.25
+Paraguay,1600,PRY,23.55
+Peru,1600,PER,19.6
+Philippines,1600,PHL,25.85
+Poland,1,POL,7.85
+Portugal,1,PRT,15.15
+Puerto Rico,1600,PRI,15
+Qatar,1600,QAT,27.15
+Romania,1,ROU,8.8
+Russia,800,RUS,-5.1
+Rwanda,1600,RWA,17.85
+Saint Kitts and Nevis,1600,KNA,24.5
+Saint Lucia,1600,LCA,25.5
+Saint Martin,1600,MAF,25
+Saint Pierre and Miquelon,1600,SPM,24
+Saint Vincent and the Grenadines,1600,VCT,26.8
+Samoa,1600,WSM,26.7
+San Marino,1600,SMR,11.85
+Sao Tome and Principe,1600,STP,23.75
+Saudi Arabia,1600,SAU,24.85
+Senegal,1600,SEN,27.85
+Serbia,1600,SRB,10.55
+Seychelles,1600,SYC,27.15
+Sierra Leone,1600,SLE,26.05
+Singapore,1600,SGP,26.45
+Sint Maarten,1600,SXM,20
+Slovakia,1,SVK,6.8
+Slovenia,1,SVN,8.9
+Solomon Islands,1600,SLB,25.65
+Somalia,1600,SOM,27.05
+South Africa,800,ZAF,17.75
+South Sudan,1600,SSD,26.9
+Spain,1,ESP,13.3
+Sri Lanka,1600,LKA,26.95
+Sudan,1600,SDN,26.9
+Suriname,1600,SUR,25.7
+Swaziland,1600,SWZ,21.4
+Sweden,1600,SWE,2.1
+Switzerland,1600,CHE,5.5
+Syria,1600,SYR,17.75
+Taiwan,1600,TWN,20
+Tajikistan,1600,TJK,2
+Tanzania,1600,TZA,22.35
+Thailand,1600,THA,26.3
+Timor-Leste,1600,TLS,25.25
+Togo,1600,TGO,27.15
+Tonga,1600,TON,25.25
+Trinidad and Tobago,1600,TTO,25.75
+Tunisia,1600,TUN,19.2
+Turkey,1,TUR,11.1
+Turkmenistan,1600,TKM,15.1
+Tuvalu,1600,TUV,28
+Uganda,1600,UGA,22.8
+Ukraine,1600,UKR,8.3
+United Arab Emirates,1600,ARE,27
+United Kingdom,1,GBR,8.45
+United States,1,USA,8.55
+Uruguay,1600,URY,17.55
+Uzbekistan,1600,UZB,12.05
+Vanuatu,1600,VUT,23.95
+Venezuela,1600,VEN,25.35
+Vietnam,1600,VNM,24.45
+Virgin Islands,1600,VGB,20
+West Bank,1600,WBG,20
+Yemen,1600,YEM,23.85
+Zambia,1600,ZMB,24.1
+Zimbabwe,1600,ZWE,21
